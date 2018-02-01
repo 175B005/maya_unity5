@@ -14,6 +14,7 @@ maya unity 連携機能5（モデリングmaya編）
 ---
 1. ポリゴンメニュの立方体アイコンをクリック(Cubeを生成)  
 ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction1-3.jpg)
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction2-3.jpg)
 1. 
 1. 
 1. 
