@@ -15,7 +15,7 @@ maya unity 連携機能5（モデリングmaya編）
 1. ポリゴンメニュの立方体アイコンをクリック(Cubeを生成)  
 ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction1-3.jpg)  
 1. 右のメニュー、「アトリビュート　エディタ」から、幅、高さ、奥行き（ｘ、ｙ、ｚ）を調整できます。  
-![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction1-1-3.jpg)
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction1-1-3.png)
 1. このオブジェクトを選択後に　Ctrl + Dキーを押すと複製ができます。  
 上部メニューの作成< 複製 でも可です。
 1. 足の接合パーツを作っていきます。  
