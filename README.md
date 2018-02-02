@@ -24,7 +24,8 @@ maya unity 連携機能5（モデリングmaya編）
 色がついてない！。とか表示がおかしい！ってなったときは、ここを疑ってください。  
 ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction3-3.jpg)
 1. 話をもどして、、さっきの手順で足を複製、４つにします。  
-Shift を押しながらにすると、複数選択できます。  
+Shift を押しながらにすると、複数選択できます。  
+ドラッグで一気に選択ももちろんできます。  
 ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction4-3.jpg)
 1. もう４つ生成して、第二足（？？っていうのか、、）を作ります。  
 ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction6-3.jpg)
