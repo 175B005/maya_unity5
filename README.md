@@ -20,18 +20,21 @@ maya unity 連携機能5（モデリングmaya編）
 上部メニューの作成< 複製 でも可です。
 1. 足の接合パーツを作っていきます。  
 ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction2-3.jpg)
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. 一度機能を紹介しておきます。上メニューの四角とか丸のマークを押すと、X線表示などができます。  
+色がついてない！。とか表示がおかしい！ってなったときは、ここを疑ってください。  
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction3-3.jpg)
+1. 話をもどして、、さっきの手順で足を複製、４つにします。  
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction4-3.jpg)
+1. もう４つ生成して、第二足（？？っていうのか、、）を作ります。  
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction6-3.jpg)
+1. 形を整えます。ここではフェース（面）の機能を使っていきます。  
+オブジェクトの上で右マウスを押しながらにすると、編集機能が選択できます。  
+下のフェースというのを選択してマウスを放すと、機能はフェースモードになります。  
+（初期でやっていた機能はオブジェクトモードで、物一つ一つを動かすのに便利というか、基本これ。）  
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction7-3.jpg)
+1. フェースモードでは、選択するのはオブジェクト単位ではなく、面単位で編集します。  
+面を選択してから移動させると、選択した面だけが動くので、  
+移動させたくない場所があるモデルでも、一部だけを編集できます。（他の機能もそう）
+
 
 [前ページ](https://github.com/175B005/maya_unity4)| [次ページ](https://github.com/175B005/maya_unity6)|[目次](https://github.com/175B005/maya_unity_index)
